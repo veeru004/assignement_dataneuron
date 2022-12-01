@@ -1,4 +1,2 @@
-opencv-python==4.4.0.46
-pytesseract==0.3.7opencv-python==4.4.0.46
-
-pytesseract==0.3.7
+opencv-python
+pytesseract
